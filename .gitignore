@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+*.log
+
+# VSCode
+.vscode/
+
+# Anaconda
+*.conda
+*.ipynb_checkpoints
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
